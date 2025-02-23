@@ -1,5 +1,5 @@
 {
-  "name": "emerson-Okopnik/Atividade Sistemas Distribuidos",
+  "name": "emerson-okopnik/atividade-sistemas-distribuidos",
   "description": "Projeto de exemplo que utiliza Monolog para logs e mPDF para geração de PDFs.",
   "license": "MIT",
   "require": {
