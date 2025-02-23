@@ -36,4 +36,4 @@ Este projeto demonstra como integrar ferramentas modernas de desenvolvimento e a
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/atividade-sistemas-distribuidos.git
+   git clone https://github.com/Emerson-Okopnik/ATV3-pdf.git
