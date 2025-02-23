@@ -32,6 +32,8 @@ jobs:
     needs: build
     steps:
       - uses: actions/checkout@v4
+      - name: Set execute permission for PHPUnit
+        run: chmod +x vendor/bin/phpunit
       - name: Run test suite
         run: composer run-script test
 
