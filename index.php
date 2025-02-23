@@ -21,6 +21,6 @@ $log->error('Erro aplicacao');
 $mpdf = new \Mpdf\Mpdf();
 $mpdf->WriteHTML('<h1>Hello world!</h1>');
 $mpdf->WriteHTML('<br><p>Projeto de exemplo que utiliza Monolog para logs e mPDF para geração de PDFs.</p>');
-$mpdf->WriteHTML('<br><p>Emerson Okopnik.</p>');
+$mpdf->WriteHTML('<br><p>Aluno: Emerson Okopnik.</p>');
 $mpdf->Output();
 
