@@ -8,11 +8,6 @@ Projeto de exemplo que utiliza **Monolog** para gerenciamento de logs e **mPDF**
 - [Recursos Utilizados](#recursos-utilizados)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [CI/CD Pipeline](#cicd-pipeline)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Introdução
 
